@@ -10,15 +10,16 @@
 <p align = "center"><img src = "https://media.giphy.com/media/OkJat1YNdoD3W/giphy.gif" width = 30%></p>
   
   If it's your first Hacktober Fest and you're feeling a bit nervous or unsure, this is a great place to do a test run! You can use this repo as an oportunity to get familiar with contributing via Pull Requests (PRs).
-  <p align = "center"><img src = "https://media.giphy.com/media/13Cmju3maIjStW/giphy.gif" width = 30%></p>
+  
   
    ## Table of Contents 
   * [How to Contribute](https://github.com/hnishal/Practice-code-repo/blob/master/Documentation/Contibute.md)
  *  [Code of Conduct](https://github.com/hnishal/Practice-code-repo/blob/master/Documentation/codeOfConduct.md)
  * [Index]()
   
-  
-  #### Fret not, it's pretty simple! Just follow these steps:
+  <p align = "center"><img src = "https://media.giphy.com/media/13Cmju3maIjStW/giphy.gif" width = 30%></p>
+
+#### Fret not, it's pretty simple! Just follow these steps:
   
 - Read the CoC [Code of Conduct]() 
 - Fork the repo
