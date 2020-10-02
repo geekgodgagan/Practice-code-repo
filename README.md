@@ -1,8 +1,9 @@
-# Practice-code-repo  
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
+# Practice-code-repo  
+
 
 ## A repo for all the beginners for this Hacktober- 2020 
 
