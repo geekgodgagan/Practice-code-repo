@@ -1,9 +1,8 @@
+# Practice-code-repo  
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-# Practice-code-repo  
-
 
 ## A repo for all the beginners for this Hacktober- 2020 
 
@@ -13,13 +12,13 @@
   
   
    ## Table of Contents 
-  * [How to Contribute](https://github.com/hnishal/Practice-code-repo/blob/master/Documentation/Contibute.md)
- *  [Code of Conduct](https://github.com/hnishal/Practice-code-repo/blob/master/Documentation/codeOfConduct.md)
- * [Index]()
+  * [How to Contribute](Documentation/Contribute.md)
+ *  [Code of Conduct](Documentation/codeOfConduct.md)
+ * [Index](Documentation/index.md)
   
   <p align = "center"><img src = "https://media.giphy.com/media/13Cmju3maIjStW/giphy.gif" width = 30%></p>
-
-#### Fret not, it's pretty simple! Just follow these steps:
+  
+  #### Fret not, it's pretty simple! Just follow these steps:
   
 - Read the CoC [Code of Conduct]() 
 - Fork the repo
