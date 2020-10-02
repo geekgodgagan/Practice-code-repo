@@ -12,8 +12,8 @@
   <p align = "center"><img src = "https://media.giphy.com/media/13Cmju3maIjStW/giphy.gif" width = 30%></p>
   
    ## Table of Contents 
-  * [How to Contribute]()
- *  [Code of Conduct]()
+  * [How to Contribute](https://github.com/hnishal/Practice-code-repo/blob/master/Documentation/Contibute.md)
+ *  [Code of Conduct](https://github.com/hnishal/Practice-code-repo/blob/master/Documentation/codeOfConduct.md)
  * [Index]()
   
   
