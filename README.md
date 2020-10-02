@@ -38,9 +38,6 @@
 <p align = "center"><img src = "https://media.giphy.com/media/j1Xyt3DHfJcmk/giphy.gif" width = 30%></p>
   
  
-  ## Contributors
-<a  href="https://github.com/remarkablemark/html-react-parser/graphs/contributors">  <img  src="https://opencollective.com/html-react-parser/contributors.svg?width=890&button=false">  </a>
-
 
 
 
